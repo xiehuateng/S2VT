@@ -1,0 +1,150 @@
+./data/testing_data/feat/ScdUht-pM6s_53_63.avi.npy
+a man is putting a fish on a large bottle
+
+./data/testing_data/feat/wkgGxsuNVSg_34_41.avi.npy
+a woman is standing in a field
+
+./data/testing_data/feat/BtQtRGI0F2Q_15_20.avi.npy
+a man is doing a stunt on a wall
+
+./data/testing_data/feat/k06Ge9ANKM8_5_16.avi.npy
+a woman is playing with a ball
+
+./data/testing_data/feat/sZf3VDsdDPM_107_114.avi.npy
+a man is putting a woman in a hand
+
+./data/testing_data/feat/shPymuahrsc_5_12.avi.npy
+a cat is meowing
+
+./data/testing_data/feat/XOAgUVVwKEA_8_20.avi.npy
+a baby is putting on a baby
+
+./data/testing_data/feat/ufFT2BWh3BQ_0_8.avi.npy
+a panda is climbing on a ground
+
+./data/testing_data/feat/5YJaS2Eswg0_22_26.avi.npy
+a man is falling on a road
+
+./data/testing_data/feat/lw7pTwpx0K0_38_48.avi.npy
+a man is placing a food in a pan
+
+./data/testing_data/feat/UbmZAe5u5FI_132_141.avi.npy
+a person is cutting a shrimp
+
+./data/testing_data/feat/xCFCXzDUGjY_5_9.avi.npy
+a man is playing with a large crowd
+
+./data/testing_data/feat/He7Ge7Sogrk_47_70.avi.npy
+a man is doing a bike
+
+./data/testing_data/feat/tJHUH9tpqPg_113_118.avi.npy
+a woman is taking a dough
+
+./data/testing_data/feat/n016q1w8Q30_2_11.avi.npy
+a person is slicing a potato
+
+./data/testing_data/feat/RjpbFlOHFps_8_25.avi.npy
+a man is riding a horse
+
+./data/testing_data/feat/6JnGBs88sL0_4_10.avi.npy
+a woman is riding a bike
+
+./data/testing_data/feat/EpMuCrbxE8A_107_115.avi.npy
+a man is playing a guitar
+
+./data/testing_data/feat/HAjwXjwN9-A_16_24.avi.npy
+a man is playing a basketball
+
+./data/testing_data/feat/4xVGpDmA4lE_23_33.avi.npy
+a man is walking
+
+./data/testing_data/feat/k5OKBX2e7xA_19_32.avi.npy
+a girl is performing a trick
+
+./data/testing_data/feat/Jag7oTemldY_12_25.avi.npy
+a man is talking on a muddy area
+
+./data/testing_data/feat/8MVo7fje_oE_125_130.avi.npy
+a man is pouring a container
+
+./data/testing_data/feat/bqMmyY1ImkI_0_14.avi.npy
+the man is putting on the grass
+
+./data/testing_data/feat/jTnrm338_KY_34_42.avi.npy
+a person is cutting a piece of garlic
+
+./data/testing_data/feat/UdcObAQ5OOM_15_30.avi.npy
+a man is riding a song on a stage
+
+./data/testing_data/feat/4PcL6-mjRNk_11_18.avi.npy
+a man is playing a car
+
+./data/testing_data/feat/3qqEKTPxLNs_1_15.avi.npy
+a baby is playing with a toy
+
+./data/testing_data/feat/glrijRGnmc0_211_215.avi.npy
+a man is preparing a piece of bread
+
+./data/testing_data/feat/q7pOFn8s4zc_263_273.avi.npy
+a man is playing a woman
+
+./data/testing_data/feat/mtrCf667KDk_134_176.avi.npy
+a woman is cutting a mushroom
+
+./data/testing_data/feat/0lh_UWF9ZP4_62_69.avi.npy
+a woman is breaking some meat
+
+./data/testing_data/feat/JntMAcTlOF0_50_70.avi.npy
+a man is walking with a large garden
+
+./data/testing_data/feat/7NNg0_n-bS8_21_30.avi.npy
+a man is playing a guitar
+
+./data/testing_data/feat/IhwPQL9dFYc_124_129.avi.npy
+a woman is cutting a piece of meat
+
+./data/testing_data/feat/BAf3LXFUaGs_28_38.avi.npy
+a man is carrying a group of people
+
+./data/testing_data/feat/6q1dX6thX3E_286_295.avi.npy
+a man is speaking
+
+./data/testing_data/feat/RZL9irxnhZ0_34_40.avi.npy
+a man is showing a drink
+
+./data/testing_data/feat/WWf0Z6ak3Dg_5_15.avi.npy
+a man is playing with a large ball
+
+./data/testing_data/feat/PeUHy0A1GF0_114_121.avi.npy
+a woman is preparing some meat
+
+./data/testing_data/feat/klteYv1Uv9A_27_33.avi.npy
+a man is riding a bike
+
+./data/testing_data/feat/e-j59PqJjSM_405_416.avi.npy
+a person is mixing a bowl
+
+./data/testing_data/feat/778mkceE0UQ_40_46.avi.npy
+a car is driving
+
+./data/testing_data/feat/77iDIp40m9E_126_131.avi.npy
+a monkey is riding a bike
+
+./data/testing_data/feat/e-j59PqJjSM_50_98.avi.npy
+a man is slicing an onion
+
+./data/testing_data/feat/Dgf0VHMEtNs_57_66.avi.npy
+a woman is taking a large piece of liquid
+
+./data/testing_data/feat/f9Won2JpOEU_60_80.avi.npy
+a cat is playing with a ball
+
+./data/testing_data/feat/dfOuTx66bJU_34_39.avi.npy
+a man is walking on a field
+
+./data/testing_data/feat/04Gt01vatkk_248_265.avi.npy
+a man is cutting a vegetable
+
+./data/testing_data/feat/rl1rVk_xIOs_1_16.avi.npy
+a man is making a ball
+
