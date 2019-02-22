@@ -1,12 +1,12 @@
 ## S2VT
 Video Caption Generation<br>
-数据可以在以下链接下载：
-http://speech.ee.ntu.edu.tw/~yangchiyi/MLDS_hw2/MLDS_hw2_data.tar.gz
+数据可以在以下链接下载：<br>
+http://speech.ee.ntu.edu.tw/~yangchiyi/MLDS_hw2/MLDS_hw2_data.tar.gz<br>
 文章主要是记录个人尝试做台湾大学李宏毅教授MLDS(2017)Spring HW2-Video Caption Generation.<br>  
 课程网址：<http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html><br>  
-实现模型是S2VT(sequence to sequence:video to text)，相关论文: <br> 
-<http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf> <br> 
-这篇文章主要关注LSTM部分。CNN相关的特征直接使用了课程提供的。(Included in Dataset)  <br>
+实现模型是S2VT(sequence to sequence:video to text)，相关论文:<br> 
+<http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf><br> 
+这篇文章主要关注LSTM部分。CNN相关的特征直接使用了课程提供的。(Included in Dataset)<br>
 
 #### 1.模型概述
 ![model_base](images/s2vt001.png)  
