@@ -1,5 +1,5 @@
 ## S2VT
-Video Caption Generation  
+Video Caption Generation
 数据可以在以下链接下载：
 http://speech.ee.ntu.edu.tw/~yangchiyi/MLDS_hw2/MLDS_hw2_data.tar.gz
 文章主要是记录个人尝试做台湾大学李宏毅教授MLDS(2017)Spring HW2-Video Caption Generation.  
@@ -32,6 +32,6 @@ Dimension of each frame = 80*4096
 training_label.json : 1450 films’s id and corresponding captions
 testing_public_label.json : 50 public testing films’s id and captions
 testing_id.txt : the example file will input to testing script
-Download link: <http://speech.ee.ntu.edu.tw/~yangchiyi/MLDS_hw2/MLDS_hw2_data.tar.gz>  
+Download link: <http://speech.ee.ntu.edu.tw/~yangchiyi/MLDS_hw2/MLDS_hw2_data.tar.gz>
 #### 4.实现代码
 [github](git@github.com:xiehuateng/S2VT.git)
